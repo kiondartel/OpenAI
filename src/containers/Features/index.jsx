@@ -1,8 +1,8 @@
 import React from "react";
 import * as Styled from "./styles";
 
-function Feature() {
+function Features() {
   return <div />;
 }
 
-export default Feature;
+export default Features;
