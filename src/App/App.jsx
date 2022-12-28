@@ -1,5 +1,5 @@
 import * as Styled from "./styles";
-
+import Global from "../styles/globalstyles";
 import Article from "../components/Article/index";
 import Brand from "../components/Brand/index";
 import Cta from "../components/Cta/index";
@@ -17,11 +17,17 @@ import {
 function App() {
   return (
     <Styled.Container>
-      <Article />
-      <Cta />
-      <Navbar />
-      <Feature />
+      <Styled.Gradient>
+        <Navbar />
+        <Header />
+      </Styled.Gradient>
       <Brand />
+      <WhatGp3 />
+      <Possibility />
+      <Cta />
+      <Blog />
+      <Footer />
+      <Global />
     </Styled.Container>
   );
 }

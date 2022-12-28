@@ -12,4 +12,16 @@ const Global = createGlobalStyle`
   scroll-behavior: smooth;
   font-family: "Nunito",sans-serif;;
  }
+
+ body {
+  background-color: #040c18; 
+ }
+
+ a {
+  color: unset;
+  text-decoration: none;
+ }
+ 
  `;
+
+export default Global;
