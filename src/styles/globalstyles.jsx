@@ -12,3 +12,4 @@ const Global = createGlobalStyle`
   scroll-behavior: smooth;
   font-family: "Nunito",sans-serif;;
  }
+ `;

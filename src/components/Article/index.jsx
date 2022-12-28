@@ -2,7 +2,8 @@ import React from "react";
 import * as Styled from "./styles";
 
 function Article() {
-  return <div />;
+  return;
+  <Styled.Container>Article</Styled.Container>;
 }
 
 export default Article;
