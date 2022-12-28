@@ -5,6 +5,14 @@ import Brand from "../components/Brand/index";
 import Cta from "../components/Cta/index";
 import Feature from "../components/Feature/index";
 import Navbar from "../components/Navbar/index";
+import {
+  Blog,
+  Features,
+  Footer,
+  Possibility,
+  WhatGp3,
+  Header,
+} from "../containers/index";
 
 function App() {
   return (
