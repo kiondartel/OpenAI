@@ -48,31 +48,31 @@ export const Gradient = styled.div`
   background: -moz-radial-gradient(
     circle at 3% 25%,
     rgba(0, 40, 83, 1) 0%,
-    rgba(4, 12, 24, 1) 25%
+    rgba(4, 12, 24, 1) 90%
   );
 
   background: -webkit-radial-gradient(
     circle at 3% 25%,
     rgba(0, 40, 83, 1) 0%,
-    rgba(4, 12, 24, 1) 25%
+    rgba(4, 12, 24, 1) 90%
   );
 
   background: -o-radial-gradient(
     circle at 3% 25%,
     rgba(0, 40, 83, 1) 0%,
-    rgba(4, 12, 24, 1) 25%
+    rgba(4, 12, 24, 1) 90%
   );
 
   background: -ms-radial-gradient(
     circle at 3% 25%,
     rgba(0, 40, 83, 1) 0%,
-    rgba(4, 12, 24, 1) 25%
+    rgba(4, 12, 24, 1) 90%
   );
 
   background: radial-gradient(
     circle at 3% 25%,
     rgba(0, 40, 83, 1) 0%,
-    rgba(4, 12, 24, 1) 25%
+    rgba(4, 12, 24, 1) 90%
   );
 `;
 
