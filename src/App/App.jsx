@@ -23,6 +23,7 @@ function App() {
       </Styled.Gradient>
       <Brand />
       <WhatGpt3 />
+      <Features />
       <Possibility />
       <Cta />
       <Blog />

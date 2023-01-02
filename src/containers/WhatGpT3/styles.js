@@ -7,6 +7,14 @@ export const Container = styled.div`
   padding: 2rem;
   background: #031b34;
   filter: drop-shadow(0px 4px 4px);
+
+  @media (max-width: 700px) {
+    margin: 4rem;
+  }
+
+  @media (max-width: 550px) {
+    margin: 4rem 2rem;
+  }
 `;
 
 export const Feature = styled.div`
