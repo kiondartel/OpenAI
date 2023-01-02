@@ -29,7 +29,6 @@ export const Title = styled.div`
   h1 {
     font-weight: 800;
     font-size: 20px;
-    line-height: 75px;
     letter-spacing: -0.04rem;
     color: #fff;
   }
