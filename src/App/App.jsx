@@ -10,7 +10,7 @@ import {
   Features,
   Footer,
   Possibility,
-  WhatGp3,
+  WhatGpt3,
   Header,
 } from "../containers/index";
 
@@ -22,7 +22,7 @@ function App() {
         <Header />
       </Styled.Gradient>
       <Brand />
-      <WhatGp3 />
+      <WhatGpt3 />
       <Possibility />
       <Cta />
       <Blog />

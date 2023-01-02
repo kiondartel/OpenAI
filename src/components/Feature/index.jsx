@@ -1,8 +1,16 @@
 import React from "react";
 import * as Styled from "./styles";
 
-function Feature() {
-  return <div />;
+function Feature({ title, text }) {
+  return (
+    <Styled.Container>
+      <Styled.Title>
+        <div />
+        <h1>{title}</h1>
+      </Styled.Title>
+      <Styled.FeatureText>{text}</Styled.FeatureText>
+    </Styled.Container>
+  );
 }
 
 export default Feature;
