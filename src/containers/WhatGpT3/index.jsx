@@ -6,7 +6,7 @@ function WhatGp3() {
     <Styled.Container>
       <Styled.Feature>
         <Feature
-          title="O que é GPT-3"
+          title="GPT3"
           text="Generative Pre-Training Transformer 3 é um modelo de linguagem autorregressivo que usa aprendizagem profunda para produzir texto semelhante ao humano."
         />
       </Styled.Feature>
@@ -20,7 +20,7 @@ function WhatGp3() {
           text='O GPT-3 foi usado por Jason Rohrer em um projeto de chatbot com tema retrô chamado "Project December", que é acessível online e permite que os usuários conversem com vários IAs usando a tecnologia GPT-3'
         />
         <Feature
-          title="Base de conhecimento"
+          title="Conhecimento"
           text="O GPT-3 é usado em certos produtos da Microsoft para traduzir linguagem convencional em código formal de computador."
         />
         <Feature

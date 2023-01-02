@@ -8,7 +8,9 @@ function Feature({ title, text }) {
         <div />
         <h1>{title}</h1>
       </Styled.Title>
-      <Styled.FeatureText>{text}</Styled.FeatureText>
+      <Styled.FeatureText>
+        <p>{text}</p>
+      </Styled.FeatureText>
     </Styled.Container>
   );
 }
