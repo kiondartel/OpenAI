@@ -19,7 +19,11 @@ export const Container = styled.div`
 
 export const Feature = styled.div`
   display: flex;
-  margin: 0;
+  margin-left: 30rem;
+
+  @media (max-width: 1800px) {
+    margin: 0;
+  }
 `;
 
 export const Heading = styled.div`
@@ -50,6 +54,6 @@ export const Heading = styled.div`
 export const ContainerGPT = styled.div`
   display: flex;
   flex-wrap: wrap;
-  flex-direction: row;
+  flex-direction: column;
   margin-top: 2rem;
 `;

@@ -3,9 +3,7 @@ import styled from "styled-components";
 export const Container = styled.div`
   width: 100%;
   display: flex;
-  justify-content: space-between;
-  align-items: flex-start;
-  flex-direction: row;
+
   margin: 1rem;
 
   @media (max-width: 550px) {
