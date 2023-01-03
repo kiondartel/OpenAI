@@ -1,6 +1,5 @@
 import * as Styled from "./styles";
 import Global from "../styles/globalstyles";
-import Article from "../components/Article/index";
 import Brand from "../components/Brand/index";
 import Cta from "../components/Cta/index";
 import Feature from "../components/Feature/index";
