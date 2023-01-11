@@ -6,7 +6,7 @@ function Header() {
   return (
     <Styled.Container>
       <Styled.Content>
-        <h1>Vamos contruir juntos algo incrivel com OpenAi GPT-3</h1>
+        <h1>Vamos construir juntos algo incrivel com OpenAi GPT-3</h1>
         <p>
           Inteligência Artificial é a inteligência demonstrada por máquinas ao
           executar tarefas complexas associadas a seres inteligentes, além de
